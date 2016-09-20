@@ -1,1 +1,1 @@
-App to display images ina a gallery
+App to display images in a gallery
